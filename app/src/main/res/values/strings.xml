@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CodeLab</string>
+
+    <string name="start_notify">Notify!</string>
+    <string name="notify_title">Notifications..</string>
+    <string name="stop_notify">Stop Notify</string>
+    <string name="weekend_title">Week End!</string>
+    <string name="settings_title">Settings</string>
+    <string name="android_title">Android!</string>
+    <string name="notify_me_title">Notify Me!</string>
+    <string name="notify_update_title">Update Me!</string>
+    <string name="notify_cancel_title">Cancel Me!</string>
+</resources>
